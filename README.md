@@ -22,10 +22,6 @@ php -S localhost:8000 router.php
 
 ```
 
-C:\laragon\bin\php\php-8.1.10-Win32-vs16-x64\php.exe -S localhost:8000 -t public
-
-
-
 > **Note :** Le fichier `router.php` à la racine est requis pour aiguiller correctement les requêtes vers le dossier `public/` et éviter les erreurs 404.
 
 **3. Accès à l'application**
